@@ -37,4 +37,4 @@ uvicorn app:app --reload
 Deployable on platforms like Vercel (serverless) or better: Railway, Render, or Fly.io for persistent DB support.
 
 ---
-    
+   
